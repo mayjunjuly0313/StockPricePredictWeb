@@ -35,12 +35,17 @@ class Template {
 		<head>
 				<meta charset="UTF-8">
 				<meta name="viewport" content="width=device-width, initial-scale=1.0">
-				<title>Document</title>
+        <title>Document</title>
+        <script defer src="./main.js"></script>
 		</head>
 		<body>
 				<form action="/process_search" method="POST">
-						<input type="text" name="companyName" placeholder="Search Company">
-						<input type="submit" value="search">
+						<input id="companySearch" type="text" name="companyName" placeholder="Search Company">
+            <input type="submit" value="search">
+            <div>
+              <ul class="autocom-box">
+              </ul>
+            </div>
         </form>
         <div>
         <h2>${this.name}</h2>${this.ticker}
