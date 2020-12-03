@@ -1,0 +1,928 @@
+[ {
+  "symbol" : "DOCU",
+  "name" : "DocuSign Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "San Francisco, CALIFORNIA",
+  "dateFirstAdded" : "2020-06-22",
+  "cik" : "0001261333",
+  "founded" : "2018-04-27"
+}, {
+  "symbol" : "ZM",
+  "name" : "Zoom Video Communications Inc",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "San Jose, CALIFORNIA",
+  "dateFirstAdded" : "2020-04-30",
+  "cik" : "0001585521",
+  "founded" : "2019-04-18"
+}, {
+  "symbol" : "DXCM",
+  "name" : "DexCom Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "San Diego, CALIFORNIA",
+  "dateFirstAdded" : "2020-04-20",
+  "cik" : "0001093557",
+  "founded" : "2005-04-14"
+}, {
+  "symbol" : "SPLK",
+  "name" : "Splunk Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "San Francisco, CALIFORNIA",
+  "dateFirstAdded" : "2019-12-23",
+  "cik" : "0001353283",
+  "founded" : "2012-04-19"
+}, {
+  "symbol" : "SGEN",
+  "name" : "Seattle Genetics Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Bothell, WASHINGTON",
+  "dateFirstAdded" : "2019-12-23",
+  "cik" : "0001060736",
+  "founded" : "2001-03-07"
+}, {
+  "symbol" : "CDW",
+  "name" : "CDW Corp",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Vernon Hills, ILLINOIS",
+  "dateFirstAdded" : "2019-12-23",
+  "cik" : "0001402057",
+  "founded" : "2013-06-27"
+}, {
+  "symbol" : "INTC",
+  "name" : "Intel Corp",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Santa Clara, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000050863",
+  "founded" : "1971-10-13"
+}, {
+  "symbol" : "XEL",
+  "name" : "Xcel Energy Inc",
+  "sector" : "Utilities",
+  "subSector" : "Utilities",
+  "headQuarter" : "Minneapolis, MINNESOTA",
+  "dateFirstAdded" : "2018-11-19",
+  "cik" : "0000072903",
+  "founded" : "1949-02-28"
+}, {
+  "symbol" : "GILD",
+  "name" : "Gilead Sciences Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Foster City, CALIFORNIA",
+  "dateFirstAdded" : "2001-10-04",
+  "cik" : "0000882095",
+  "founded" : "1992-01-01"
+}, {
+  "symbol" : "TTWO",
+  "name" : "Take-Two Interactive Software Inc",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "New York City, NEW YORK",
+  "dateFirstAdded" : "2017-12-18",
+  "cik" : "0000946581",
+  "founded" : "1997-04-15"
+}, {
+  "symbol" : "CHTR",
+  "name" : "Charter Communications Inc",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "Stamford, CONNECTICUT",
+  "dateFirstAdded" : "2001-12-24",
+  "cik" : "0001091667",
+  "founded" : "2009-12-02"
+}, {
+  "symbol" : "ASML",
+  "name" : "ASML Holding N.V.",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : null,
+  "dateFirstAdded" : "2017-12-18",
+  "cik" : null,
+  "founded" : null
+}, {
+  "symbol" : "FISV",
+  "name" : "Fiserv Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Brookfield, WISCONSIN",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000798354",
+  "founded" : "1986-09-25"
+}, {
+  "symbol" : "AMAT",
+  "name" : "Applied Materials Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Santa Clara, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000006951",
+  "founded" : "1972-10-05"
+}, {
+  "symbol" : "MXIM",
+  "name" : "Maxim Integrated Products Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "San Jose, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000743316",
+  "founded" : "1994-01-01"
+}, {
+  "symbol" : "MU",
+  "name" : "Micron Technology Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Boise, IDAHO",
+  "dateFirstAdded" : "2010-12-20",
+  "cik" : "0000723125",
+  "founded" : "1984-06-01"
+}, {
+  "symbol" : "CTSH",
+  "name" : "Cognizant Technology Solutions Corp",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Teaneck, NEW JERSEY",
+  "dateFirstAdded" : "2004-12-29",
+  "cik" : "0001058290",
+  "founded" : "1998-06-24"
+}, {
+  "symbol" : "PCAR",
+  "name" : "Paccar Inc",
+  "sector" : "Industrials",
+  "subSector" : "Industrials",
+  "headQuarter" : "Bellevue, WASHINGTON",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000075362",
+  "founded" : "1980-03-17"
+}, {
+  "symbol" : "PYPL",
+  "name" : "PayPal Holdings Inc",
+  "sector" : "Financial Services",
+  "subSector" : "Financial Services",
+  "headQuarter" : "San Jose, CALIFORNIA",
+  "dateFirstAdded" : "2015-11-11",
+  "cik" : "0001633917",
+  "founded" : "2015-07-06"
+}, {
+  "symbol" : "INCY",
+  "name" : "Incyte Corp",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Wilmington, DELAWARE",
+  "dateFirstAdded" : "2015-10-07",
+  "cik" : "0000879169",
+  "founded" : "1991-04-08"
+}, {
+  "symbol" : "JD",
+  "name" : "JD.com Inc.",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : null,
+  "dateFirstAdded" : "2015-07-30",
+  "cik" : "0001549802",
+  "founded" : null
+}, {
+  "symbol" : "WBA",
+  "name" : "Walgreens Boots Alliance Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Deerfield, ILLINOIS",
+  "dateFirstAdded" : "2015-03-23",
+  "cik" : "0001618921",
+  "founded" : "2014-12-31"
+}, {
+  "symbol" : "COST",
+  "name" : "Costco Wholesale Corp",
+  "sector" : "Consumer Defensive",
+  "subSector" : "Consumer Defensive",
+  "headQuarter" : "Issaquah, WASHINGTON",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000909832",
+  "founded" : "1985-12-05"
+}, {
+  "symbol" : "GOOG",
+  "name" : "Alphabet Inc.",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "Mountain View, CA",
+  "dateFirstAdded" : "2014-04-03",
+  "cik" : "0001652044",
+  "founded" : null
+}, {
+  "symbol" : "NXPI",
+  "name" : "NXP Semiconductors NV",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Eindhoven, NOORD-BRABANT",
+  "dateFirstAdded" : "2013-12-23",
+  "cik" : "0001413447",
+  "founded" : "2010-08-06"
+}, {
+  "symbol" : "TSLA",
+  "name" : "Tesla Inc",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Palo Alto, CALIFORNIA",
+  "dateFirstAdded" : "2013-07-15",
+  "cik" : "0001318605",
+  "founded" : "2010-06-29"
+}, {
+  "symbol" : "REGN",
+  "name" : "Regeneron Pharmaceuticals Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Tarrytown, NEW YORK",
+  "dateFirstAdded" : "2012-12-24",
+  "cik" : "0000872589",
+  "founded" : "1991-01-01"
+}, {
+  "symbol" : "FB",
+  "name" : "Facebook Inc",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "Menlo Park, CALIFORNIA",
+  "dateFirstAdded" : "2012-12-12",
+  "cik" : "0001326801",
+  "founded" : "2012-05-18"
+}, {
+  "symbol" : "TXN",
+  "name" : "Texas Instruments Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Dallas, TEXAS",
+  "dateFirstAdded" : "2012-04-23",
+  "cik" : "0000097476",
+  "founded" : "1953-10-01"
+}, {
+  "symbol" : "TCOM",
+  "name" : "Trip.com Group Ltd",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Shanghai, SHANGHAI",
+  "dateFirstAdded" : "2010-12-20",
+  "cik" : "0001269238",
+  "founded" : "2003-12-09"
+}, {
+  "symbol" : "CHKP",
+  "name" : "Check Point Software Technologies Ltd",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "TEL AVIV-YAFO, ",
+  "dateFirstAdded" : "2000-12-18",
+  "cik" : "0001015922",
+  "founded" : "1996-06-28"
+}, {
+  "symbol" : "CERN",
+  "name" : "Cerner Corp",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Kansas City, MISSOURI",
+  "dateFirstAdded" : "2009-07-20",
+  "cik" : "0000804753",
+  "founded" : "1986-12-05"
+}, {
+  "symbol" : "EA",
+  "name" : "Electronic Arts Inc",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "Redwood City, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000712515",
+  "founded" : "1989-01-09"
+}, {
+  "symbol" : "INTU",
+  "name" : "Intuit Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Mountain View, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000896878",
+  "founded" : "1993-03-12"
+}, {
+  "symbol" : "ADP",
+  "name" : "Automatic Data Processing Inc",
+  "sector" : "Industrials",
+  "subSector" : "Industrials",
+  "headQuarter" : "Roseland, NEW JERSEY",
+  "dateFirstAdded" : "2008-12-23",
+  "cik" : "0000008670",
+  "founded" : "1961-09-01"
+}, {
+  "symbol" : "VRTX",
+  "name" : "Vertex Pharmaceuticals Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Boston, MASSACHUSETTS",
+  "dateFirstAdded" : "2006-12-18",
+  "cik" : "0000875320",
+  "founded" : "1991-07-24"
+}, {
+  "symbol" : "ISRG",
+  "name" : "Intuitive Surgical Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Sunnyvale, CALIFORNIA",
+  "dateFirstAdded" : "2006-02-01",
+  "cik" : "0001035267",
+  "founded" : "2006-06-01"
+}, {
+  "symbol" : "EXPE",
+  "name" : "Expedia Group Inc",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Seattle, WASHINGTON",
+  "dateFirstAdded" : "2005-12-21",
+  "cik" : "0001324424",
+  "founded" : "2005-08-09"
+}, {
+  "symbol" : "CMCSA",
+  "name" : "Comcast Corp",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "Philadelphia, PENNSYLVANIA",
+  "dateFirstAdded" : "2002-11-20",
+  "cik" : "0001166691",
+  "founded" : "2001-12-07"
+}, {
+  "symbol" : "AMZN",
+  "name" : "Amazon.com Inc",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Seattle, WASHINGTON",
+  "dateFirstAdded" : "1998-12-21",
+  "cik" : "0001018724",
+  "founded" : "1997-05-01"
+}, {
+  "symbol" : "SBUX",
+  "name" : "Starbucks Corp",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Seattle, WASHINGTON",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000829224",
+  "founded" : "1992-06-01"
+}, {
+  "symbol" : "BIIB",
+  "name" : "Biogen Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Cambridge, MASSACHUSETTS",
+  "dateFirstAdded" : "2000-12-18",
+  "cik" : "0000875045",
+  "founded" : "1991-09-17"
+}, {
+  "symbol" : "VRSN",
+  "name" : "Verisign Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Reston, VIRGINIA",
+  "dateFirstAdded" : "2000-06-09",
+  "cik" : "0001014473",
+  "founded" : "1998-01-29"
+}, {
+  "symbol" : "DLTR",
+  "name" : "Dollar Tree Inc",
+  "sector" : "Consumer Defensive",
+  "subSector" : "Consumer Defensive",
+  "headQuarter" : "Chesapeake, VIRGINIA",
+  "dateFirstAdded" : "1998-12-21",
+  "cik" : "0000935703",
+  "founded" : "1995-03-06"
+}, {
+  "symbol" : "XLNX",
+  "name" : "Xilinx Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "San Jose, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000743988",
+  "founded" : "1990-06-01"
+}, {
+  "symbol" : "SNPS",
+  "name" : "Synopsys Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Mountain View, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000883241",
+  "founded" : "1992-02-26"
+}, {
+  "symbol" : "ROST",
+  "name" : "Ross Stores Inc",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Dublin California, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000745732",
+  "founded" : "1985-08-08"
+}, {
+  "symbol" : "MSFT",
+  "name" : "Microsoft Corp",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Redmond, WASHINGTON",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000789019",
+  "founded" : "1986-03-13"
+}, {
+  "symbol" : "MCHP",
+  "name" : "Microchip Technology Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Chandler, ARIZONA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000827054",
+  "founded" : "1993-03-19"
+}, {
+  "symbol" : "IDXX",
+  "name" : "IDEXX Laboratories Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Westbrook, MAINE",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000874716",
+  "founded" : "1991-06-21"
+}, {
+  "symbol" : "FAST",
+  "name" : "Fastenal Co",
+  "sector" : "Industrials",
+  "subSector" : "Industrials",
+  "headQuarter" : "Winona, MINNESOTA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000815556",
+  "founded" : "1987-08-01"
+}, {
+  "symbol" : "CTAS",
+  "name" : "Cintas Corp",
+  "sector" : "Industrials",
+  "subSector" : "Industrials",
+  "headQuarter" : "Cincinnati, OHIO",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000723254",
+  "founded" : "1983-01-01"
+}, {
+  "symbol" : "AAPL",
+  "name" : "Apple Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Cupertino, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000320193",
+  "founded" : "1980-12-12"
+}, {
+  "symbol" : "AMGN",
+  "name" : "Amgen Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Thousand Oaks, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000318154",
+  "founded" : "1987-05-01"
+}, {
+  "symbol" : "ADBE",
+  "name" : "Adobe Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "San Jose, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000796343",
+  "founded" : "1986-01-08"
+}, {
+  "symbol" : "PDD",
+  "name" : "Pinduoduo Inc",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Shanghai, SHANGHAI",
+  "dateFirstAdded" : "2020-08-24",
+  "cik" : "0001737806",
+  "founded" : "2018-07-26"
+}, {
+  "symbol" : "MRNA",
+  "name" : "Moderna Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Cambridge, MASSACHUSETTS",
+  "dateFirstAdded" : "2020-07-20",
+  "cik" : "0001682852",
+  "founded" : "2018-12-07"
+}, {
+  "symbol" : "CPRT",
+  "name" : "Copart Inc",
+  "sector" : "Industrials",
+  "subSector" : "Industrials",
+  "headQuarter" : "Dallas, TEXAS",
+  "dateFirstAdded" : "2019-12-23",
+  "cik" : "0000900075",
+  "founded" : "1994-03-17"
+}, {
+  "symbol" : "ANSS",
+  "name" : "ANSYS Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Canonsburg, PENNSYLVANIA",
+  "dateFirstAdded" : "2019-12-23",
+  "cik" : "0001013462",
+  "founded" : "1996-06-20"
+}, {
+  "symbol" : "EXC",
+  "name" : "Exelon Corp",
+  "sector" : "Utilities",
+  "subSector" : "Utilities",
+  "headQuarter" : "Chicago, ILLINOIS",
+  "dateFirstAdded" : "2019-11-21",
+  "cik" : "0001109357",
+  "founded" : "1943-07-06"
+}, {
+  "symbol" : "FOXA",
+  "name" : "Fox Corp",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "New York City, NEW YORK",
+  "dateFirstAdded" : "2019-03-19",
+  "cik" : null,
+  "founded" : "2019-02-27"
+}, {
+  "symbol" : "FOX",
+  "name" : "Twenty-First Century Fox Inc.",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "New York, NY",
+  "dateFirstAdded" : "2019-03-19",
+  "cik" : "0001754301",
+  "founded" : null
+}, {
+  "symbol" : "LULU",
+  "name" : "Lululemon Athletica Inc",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Vancouver, BRITISH COLUMBIA",
+  "dateFirstAdded" : "2018-12-24",
+  "cik" : "0001397187",
+  "founded" : "2007-05-01"
+}, {
+  "symbol" : "AMD",
+  "name" : "Advanced Micro Devices Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Santa Clara, CALIFORNIA",
+  "dateFirstAdded" : "2018-12-24",
+  "cik" : "0000002488",
+  "founded" : "1979-10-15"
+}, {
+  "symbol" : "PEP",
+  "name" : "PepsiCo Inc",
+  "sector" : "Consumer Defensive",
+  "subSector" : "Consumer Defensive",
+  "headQuarter" : "Purchase, NEW YORK",
+  "dateFirstAdded" : "2018-07-23",
+  "cik" : "0000077476",
+  "founded" : "1919-12-18"
+}, {
+  "symbol" : "KHC",
+  "name" : "Kraft Heinz Co",
+  "sector" : "Consumer Defensive",
+  "subSector" : "Consumer Defensive",
+  "headQuarter" : "Pittsburgh, PENNSYLVANIA",
+  "dateFirstAdded" : "2015-07-06",
+  "cik" : "0001637459",
+  "founded" : "2015-07-06"
+}, {
+  "symbol" : "WDAY",
+  "name" : "Workday Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Pleasanton, CALIFORNIA",
+  "dateFirstAdded" : "2017-12-18",
+  "cik" : "0001327811",
+  "founded" : "2012-12-10"
+}, {
+  "symbol" : "LBTYA",
+  "name" : "Liberty Global PLC",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "Hammersmith, MIDDLESEX",
+  "dateFirstAdded" : "2004-12-19",
+  "cik" : "0001570585",
+  "founded" : "2004-06-02"
+}, {
+  "symbol" : "ALGN",
+  "name" : "Align Technology Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "San Jose, CALIFORNIA",
+  "dateFirstAdded" : "2017-10-23",
+  "cik" : "0001097149",
+  "founded" : "2001-01-26"
+}, {
+  "symbol" : "MELI",
+  "name" : "Mercadolibre Inc",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Buenos Aires, BUENOS AIRES",
+  "dateFirstAdded" : "2017-06-19",
+  "cik" : "0001099590",
+  "founded" : "2007-08-10"
+}, {
+  "symbol" : "NTES",
+  "name" : "NetEase Inc.",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : null,
+  "dateFirstAdded" : "2016-03-16",
+  "cik" : "0001110646",
+  "founded" : null
+}, {
+  "symbol" : "CSX",
+  "name" : "CSX Corp",
+  "sector" : "Industrials",
+  "subSector" : "Industrials",
+  "headQuarter" : "Jacksonville, FLORIDA",
+  "dateFirstAdded" : "2016-02-22",
+  "cik" : "0000277948",
+  "founded" : "1980-11-03"
+}, {
+  "symbol" : "ULTA",
+  "name" : "Ulta Beauty Inc",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Bolingbrook, ILLINOIS",
+  "dateFirstAdded" : "2015-12-21",
+  "cik" : "0001403568",
+  "founded" : "2007-10-25"
+}, {
+  "symbol" : "TMUS",
+  "name" : "T-Mobile US Inc",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "Bellevue, WASHINGTON",
+  "dateFirstAdded" : "2015-12-21",
+  "cik" : "0001283699",
+  "founded" : "2007-04-18"
+}, {
+  "symbol" : "SWKS",
+  "name" : "Skyworks Solutions Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Irvine, CALIFORNIA",
+  "dateFirstAdded" : "2015-08-03",
+  "cik" : "0000004127",
+  "founded" : "2002-07-03"
+}, {
+  "symbol" : "BMRN",
+  "name" : "Biomarin Pharmaceutical Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Novato, CALIFORNIA",
+  "dateFirstAdded" : "2015-07-27",
+  "cik" : "0001048477",
+  "founded" : "2009-07-21"
+}, {
+  "symbol" : "LBTYK",
+  "name" : "Liberty Global plc",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : null,
+  "dateFirstAdded" : "2014-12-22",
+  "cik" : null,
+  "founded" : null
+}, {
+  "symbol" : "EBAY",
+  "name" : "eBay Inc",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "San Jose, CALIFORNIA",
+  "dateFirstAdded" : "1999-10-06",
+  "cik" : "0001065088",
+  "founded" : "1998-09-23"
+}, {
+  "symbol" : "BIDU",
+  "name" : "Baidu Inc",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "Beijing, BEIJING",
+  "dateFirstAdded" : "2007-12-04",
+  "cik" : "0001329099",
+  "founded" : "2005-08-05"
+}, {
+  "symbol" : "MAR",
+  "name" : "Marriott International Inc",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Bethesda, MARYLAND",
+  "dateFirstAdded" : "2013-11-18",
+  "cik" : "0001048286",
+  "founded" : "1998-03-23"
+}, {
+  "symbol" : "CTXS",
+  "name" : "Citrix Systems Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Fort Lauderdale, FLORIDA",
+  "dateFirstAdded" : "1998-01-07",
+  "cik" : "0000877890",
+  "founded" : "1995-12-01"
+}, {
+  "symbol" : "WDC",
+  "name" : "Western Digital Corp",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "San Jose, CALIFORNIA",
+  "dateFirstAdded" : "2012-12-24",
+  "cik" : "0000106040",
+  "founded" : "1991-01-31"
+}, {
+  "symbol" : "VRSK",
+  "name" : "Verisk Analytics Inc",
+  "sector" : "Industrials",
+  "subSector" : "Industrials",
+  "headQuarter" : "Jersey City, NEW JERSEY",
+  "dateFirstAdded" : "2012-12-24",
+  "cik" : "0001442145",
+  "founded" : "2009-10-09"
+}, {
+  "symbol" : "QCOM",
+  "name" : "Qualcomm Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "San Diego, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000804328",
+  "founded" : "1991-12-01"
+}, {
+  "symbol" : "ADI",
+  "name" : "Analog Devices Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Norwood, MASSACHUSETTS",
+  "dateFirstAdded" : "2012-12-24",
+  "cik" : "0000006281",
+  "founded" : "1979-04-03"
+}, {
+  "symbol" : "MDLZ",
+  "name" : "Mondelez International Inc",
+  "sector" : "Consumer Defensive",
+  "subSector" : "Consumer Defensive",
+  "headQuarter" : "Chicago, ILLINOIS",
+  "dateFirstAdded" : "2012-07-23",
+  "cik" : "0001103982",
+  "founded" : "2001-06-13"
+}, {
+  "symbol" : "CDNS",
+  "name" : "Cadence Design Systems Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "San Jose, CALIFORNIA",
+  "dateFirstAdded" : "2005-12-21",
+  "cik" : null,
+  "founded" : "1988-06-01"
+}, {
+  "symbol" : "AVGO",
+  "name" : "Broadcom Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "San Jose, CALIFORNIA",
+  "dateFirstAdded" : "2011-12-19",
+  "cik" : "0001730168",
+  "founded" : "2016-02-01"
+}, {
+  "symbol" : "ALXN",
+  "name" : "Alexion Pharmaceuticals Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "Boston, MASSACHUSETTS",
+  "dateFirstAdded" : "2011-04-04",
+  "cik" : "0000899866",
+  "founded" : "1996-02-01"
+}, {
+  "symbol" : "NFLX",
+  "name" : "Netflix Inc",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "Los Gatos, CALIFORNIA",
+  "dateFirstAdded" : "2010-12-20",
+  "cik" : "0001065280",
+  "founded" : "2002-05-29"
+}, {
+  "symbol" : "BKNG",
+  "name" : "Booking Holdings Inc",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Norwalk, CONNECTICUT",
+  "dateFirstAdded" : "2009-10-29",
+  "cik" : "0001075531",
+  "founded" : "1999-03-29"
+}, {
+  "symbol" : "ORLY",
+  "name" : "O'Reilly Automotive Inc",
+  "sector" : "Consumer Cyclical",
+  "subSector" : "Consumer Cyclical",
+  "headQuarter" : "Springfield, MISSOURI",
+  "dateFirstAdded" : "2008-12-23",
+  "cik" : "0000898173",
+  "founded" : "1993-04-22"
+}, {
+  "symbol" : "ILMN",
+  "name" : "Illumina Inc",
+  "sector" : "Healthcare",
+  "subSector" : "Healthcare",
+  "headQuarter" : "San Diego, CALIFORNIA",
+  "dateFirstAdded" : "2008-12-22",
+  "cik" : "0001110803",
+  "founded" : "2000-07-28"
+}, {
+  "symbol" : "MNST",
+  "name" : "Monster Beverage Corp",
+  "sector" : "Consumer Defensive",
+  "subSector" : "Consumer Defensive",
+  "headQuarter" : "Corona, CALIFORNIA",
+  "dateFirstAdded" : "2007-12-24",
+  "cik" : "0000865752",
+  "founded" : "1985-12-09"
+}, {
+  "symbol" : "GOOGL",
+  "name" : "Alphabet Inc",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "Mountain View, CALIFORNIA",
+  "dateFirstAdded" : "2005-12-21",
+  "cik" : null,
+  "founded" : "2004-08-19"
+}, {
+  "symbol" : "ATVI",
+  "name" : "Activision Blizzard Inc",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "Santa Monica, CALIFORNIA",
+  "dateFirstAdded" : "2005-12-21",
+  "cik" : "0000718877",
+  "founded" : "1983-06-10"
+}, {
+  "symbol" : "SIRI",
+  "name" : "Sirius XM Holdings Inc",
+  "sector" : "Communication Services",
+  "subSector" : "Communication Services",
+  "headQuarter" : "New York City, NEW YORK",
+  "dateFirstAdded" : "2004-12-19",
+  "cik" : "0000908937",
+  "founded" : "1994-09-13"
+}, {
+  "symbol" : "LRCX",
+  "name" : "Lam Research Corp",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Fremont, CALIFORNIA",
+  "dateFirstAdded" : "2003-12-22",
+  "cik" : "0000707549",
+  "founded" : "1984-05-11"
+}, {
+  "symbol" : "NVDA",
+  "name" : "NVIDIA Corp",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Santa Clara, CALIFORNIA",
+  "dateFirstAdded" : "2001-05-31",
+  "cik" : "0001045810",
+  "founded" : "1999-01-22"
+}, {
+  "symbol" : "PAYX",
+  "name" : "Paychex Inc",
+  "sector" : "Industrials",
+  "subSector" : "Industrials",
+  "headQuarter" : "Rochester, NEW YORK",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000723531",
+  "founded" : "2005-06-05"
+}, {
+  "symbol" : "KLAC",
+  "name" : "KLA Corp",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "Milpitas, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000319201",
+  "founded" : "1980-10-08"
+}, {
+  "symbol" : "CSCO",
+  "name" : "Cisco Systems Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "San Jose, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000858877",
+  "founded" : "1990-02-01"
+}, {
+  "symbol" : "ADSK",
+  "name" : "Autodesk Inc",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "San Rafael California, CALIFORNIA",
+  "dateFirstAdded" : "1997-12-02",
+  "cik" : "0000769397",
+  "founded" : "1985-05-01"
+} ]
